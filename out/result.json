@@ -1,0 +1,128 @@
+{
+ "dev": {
+  "by_kind": {
+   "clean": {
+    "n": 83,
+    "stopped_mine": 0,
+    "stopped_schema": 0,
+    "named": 83,
+    "unfitted": 0,
+    "clicks_right": 5150,
+    "clicks": 5150
+   },
+   "swap": {
+    "n": 44,
+    "stopped_mine": 44,
+    "stopped_schema": 0,
+    "named": 44,
+    "unfitted": 0,
+    "clicks_right": 2587,
+    "clicks": 2587
+   },
+   "scale_offset": {
+    "n": 43,
+    "stopped_mine": 43,
+    "stopped_schema": 43,
+    "named": 43,
+    "unfitted": 0,
+    "clicks_right": 2595,
+    "clicks": 2595
+   },
+   "narr_shift": {
+    "n": 40,
+    "stopped_mine": 40,
+    "stopped_schema": 0,
+    "named": 40,
+    "unfitted": 0,
+    "clicks_right": 2382,
+    "clicks": 2382
+   },
+   "scale": {
+    "n": 46,
+    "stopped_mine": 46,
+    "stopped_schema": 33,
+    "named": 46,
+    "unfitted": 0,
+    "clicks_right": 2827,
+    "clicks": 2827
+   },
+   "offset": {
+    "n": 44,
+    "stopped_mine": 44,
+    "stopped_schema": 44,
+    "named": 44,
+    "unfitted": 0,
+    "clicks_right": 2432,
+    "clicks": 2432
+   }
+  },
+  "totals": {
+   "clicks_total": 17973,
+   "clicks_right_as_recorded": 10380,
+   "clicks_right_repaired": 17973
+  }
+ },
+ "held_out": {
+  "by_kind": {
+   "narr_shift": {
+    "n": 44,
+    "stopped_mine": 44,
+    "stopped_schema": 0,
+    "named": 44,
+    "unfitted": 0,
+    "clicks_right": 2524,
+    "clicks": 2524
+   },
+   "offset": {
+    "n": 60,
+    "stopped_mine": 60,
+    "stopped_schema": 60,
+    "named": 48,
+    "unfitted": 12,
+    "clicks_right": 2926,
+    "clicks": 3706
+   },
+   "clean": {
+    "n": 126,
+    "stopped_mine": 0,
+    "stopped_schema": 0,
+    "named": 126,
+    "unfitted": 0,
+    "clicks_right": 7324,
+    "clicks": 7324
+   },
+   "scale_offset": {
+    "n": 56,
+    "stopped_mine": 56,
+    "stopped_schema": 56,
+    "named": 32,
+    "unfitted": 10,
+    "clicks_right": 2477,
+    "clicks": 3418
+   },
+   "scale": {
+    "n": 69,
+    "stopped_mine": 69,
+    "stopped_schema": 46,
+    "named": 54,
+    "unfitted": 3,
+    "clicks_right": 3729,
+    "clicks": 4204
+   },
+   "swap": {
+    "n": 45,
+    "stopped_mine": 45,
+    "stopped_schema": 0,
+    "named": 45,
+    "unfitted": 0,
+    "clicks_right": 2718,
+    "clicks": 2718
+   }
+  },
+  "totals": {
+   "clicks_total": 23894,
+   "clicks_right_as_recorded": 13087,
+   "clicks_right_repaired": 21698
+  }
+ }
+}
